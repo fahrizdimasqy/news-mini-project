@@ -5,6 +5,10 @@
 npm install
 ```
 
+### Akun Dummy user
+Email : dimasqy@gmail.com
+password: 12345678
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
